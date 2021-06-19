@@ -1,0 +1,100 @@
+[
+   {
+      "name":"Raja",
+      "category":"Tiger",
+      "age":"8",
+      "food":"Beef (3kg)",
+      "isfoodeaten":"0",
+      "timefood":"10:00 AM",
+      "timings":[
+         {"09:00 AM":"Open Cage"},
+         {"10:00 AM":"Food Milk and Rice"},
+         {"10:30 AM":"Medication"},
+         {"11:00 AM":"Cleaning"}
+      ]
+   },
+   {
+       "name":"Raja",
+       "category":"Tiger",
+       "age":"8",
+       "food":"Beef (3kg)",
+       "isfoodeaten":"1",
+       "timefood":"10:00 AM",
+       "timings":[
+          {"09:00 AM":"Open Cage"},
+          {"10:00 AM":"Food Milk and Rice"},
+          {"10:30 AM":"Medication"},
+          {"11:00 AM":"Cleaning"}
+       ]
+    },
+    {
+       "name":"Raja",
+       "category":"Tiger",
+       "food":"Beef (3kg)",
+       "isfoodeaten":"0",
+       "age":"8",
+       "timefood":"10:00 AM",
+       "timings":[
+          {"09:00 AM":"Open Cage"},
+          {"10:00 AM":"Food Milk and Rice"},
+          {"10:30 AM":"Medication"},
+          {"11:00 AM":"Cleaning"}
+       ]
+    },
+    {
+       "name":"Raja",
+       "category":"Tiger",
+       "food":"Beef (3kg)",
+       "isfoodeaten":"1",
+       "age":"8",
+       "timefood":"10:00 AM",
+       "timings":[
+          {"09:00 AM":"Open Cage"},
+          {"10:00 AM":"Food Milk and Rice"},
+          {"10:30 AM":"Medication"},
+          {"11:00 AM":"Cleaning"}
+       ]
+    },
+    {
+       "name":"Raja",
+       "category":"Tiger",
+       "food":"Beef (3kg)",
+       "isfoodeaten":"0",
+       "age":"8",
+       "timefood":"10:00 AM",
+       "timings":[
+          {"09:00 AM":"Open Cage"},
+          {"10:00 AM":"Food Milk and Rice"},
+          {"10:30 AM":"Medication"},
+          {"11:00 AM":"Cleaning"}
+       ]
+    },
+    {
+       "name":"Raja",
+       "category":"Tiger",
+       "food":"Beef (3kg)",
+       "isfoodeaten":"0",
+       "age":"8",
+       "timefood":"10:00 AM",
+       "timings":[
+          {"09:00 AM":"Open Cage"},
+          {"10:00 AM":"Food Milk and Rice"},
+          {"10:30 AM":"Medication"},
+          {"11:00 AM":"Cleaning"}
+       ]
+    },
+    {
+       "name":"Raja",
+       "category":"Tiger",
+       "food":"Beef (3kg)",
+       "isfoodeaten":"1",
+       "age":"8",
+       "timefood":"10:00 AM",
+       "timings":[
+          {"09:00 AM":"Open Cage"},
+          {"10:00 AM":"Food Milk and Rice"},
+          {"10:30 AM":"Medication"},
+          {"11:00 AM":"Cleaning"}
+       ]
+    }
+]

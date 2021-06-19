@@ -6,6 +6,33 @@
   <base href="/">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <script>
+    function yesconfirmation()
+    {
+      confirm("Did you give the food?");
+      document.getElementById("redbtn").className ="d-flex btn bg-success" ;
+    }
+
+    function noconfirmation()
+    {
+      confirm("Did you not give the food?");
+      document.getElementById("grnbtn").className ="d-flex btn bg-danger" ;
+      
+    }
+    function togglefunc()
+    {
+      if(document.getElementById("hiddendiv").style.display=="none")
+      {
+        document.getElementById("hiddendiv").style.display="block";
+        document.getElementById("hiddendiv").style.position="absolute ";
+      }
+      else
+      {
+        document.getElementById("hiddendiv").style.display="none";
+      }
+      
+    }
+  </script>
 </head>
 <body>
   <app-root></app-root>
